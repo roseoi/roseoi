@@ -1,6 +1,6 @@
 # roseoi
 Introducing myself
-# 👋 Hi, I'm Ha Rose Bui
+# 👋 Hi, I'm Hà Rose Bùi
 
 🎓 **Future Skills Research Fellow | Data Analyst | Educational Researcher**
 📍 Based in London, UK

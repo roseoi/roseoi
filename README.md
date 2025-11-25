@@ -1,4 +1,4 @@
-# readme
+# roseoi
 Introducing myself
 # 👋 Hi, I'm Ha Rose Bui
 

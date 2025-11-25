@@ -1,5 +1,5 @@
 # roseoi
-Introducing myself
+Bello mọi người,
 # 👋 Hi, I'm Hà Rose Bùi
 
 🎓 **Future Skills Research Fellow | Data Analyst | Educational Researcher**
